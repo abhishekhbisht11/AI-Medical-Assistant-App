@@ -1,2 +1,2 @@
-api_key="Google Gemini Pro"
+api_key="AIzaSyDV1kkgONtwExaWfJoUlIpMnZMgWaiknug"
 #go to google studio api key
